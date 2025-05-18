@@ -1,0 +1,80 @@
+---
+- summary: |
+    Проверка пробной игры на стартовой страницу
+  status: pass
+
+- summary: |
+    Регистрация на сайте
+  status: pass
+
+- summary: |
+    Вход через GitHub
+  status: pass
+
+- summary: |
+    Создание новой игры
+  status: pass
+  
+- summary: |
+    Возвращение в начатую игру
+  status: pass
+
+- summary: |
+    Проверка работоспособности чата в созданной игре
+  status: pass
+
+- summary: |
+    Проверка возможности просмотра завершенных игр
+  status: pass
+
+- summary: |
+    Проверка возможности просмотра чужих игр
+  status: pass
+
+- summary: |
+    Проверка возможности просмотра общего рейтинга игроков
+  status: pass
+
+- summary: |
+    Проверка возможности выбора языка программирования
+  status: pass
+
+- summary: |
+    Конфигурационное тестирование
+  status: pass
+
+- summary: |
+    Запуск несколькиз игр
+  status: pass
+
+- summary: |
+    Смена "Nickname" на слово из 2х символов
+  status: pass
+
+- summary: |
+    Отправка сообщений "Send feedback" в игре
+  status: pass
+
+- summary: 
+    Проверка возможности сдаться в партии
+  status: pass
+    
+- summary: |
+    Проверка работоспособности чата на главной странице
+  status: pass
+
+- summary: |
+    Проверка профилей других пользователей
+  status: pass
+
+- summary: |
+    Создание турнира для пользователей
+  status: pass
+
+- summary: |
+    Проверка адаптивности на мобильных устройствах
+  status: pass
+
+- summary: |
+    Проверка смены языка задания
+  status: pass
