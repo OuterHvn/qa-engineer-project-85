@@ -1,6 +1,6 @@
 ---
 - summary: |
-    Проверка пробной игры на стартовой страницу
+    Проверка пробной игры на стартовой странице
   requirement: |
     Возможность начать игру без регистрации
   prerequisites: |
@@ -31,7 +31,7 @@
     Открывается стартовая страница сайта
 
 - summary: |
-    Вход через GitHub
+    Вход на платформу через GitHub
   requirement: |
     Выполнение входа с помощью GitHub
   prerequisites: |
@@ -40,6 +40,22 @@
     Safari 18.2 (20602.1.16.11.18)
   steps:
   - Нажать на кнопку "sign in with GitHub"
+  - В поле "Email" ввести значение "gh2222@yandex.ru"
+  - В поле "Password" ввести значение "8a9E1635."
+  - Нажать на кнопку "Submit"
+  expected-result: |
+    Открывается стартовая страница сайта
+
+- summary: |
+    Вход на платформу через Discord
+  requirement: |
+    Выполнение входа с помощью Discord
+  prerequisites: |
+    Открыть сайт https://codebattle.hexlet.io/
+  test-data: |
+    Safari 18.2 (20602.1.16.11.18)
+  steps:
+  - Нажать на кнопку "sign in with Discord"
   - В поле "Email" ввести значение "gh2222@yandex.ru"
   - В поле "Password" ввести значение "8a9E1635."
   - Нажать на кнопку "Submit"
