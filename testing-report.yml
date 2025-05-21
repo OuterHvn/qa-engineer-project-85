@@ -8,8 +8,12 @@
   status: pass
 
 - summary: |
-    Вход через GitHub
+    Вход на платформу через GitHub
   status: pass
+
+- summary: |
+    Вход на платформу через Discord
+  status: fail
 
 - summary: |
     Создание новой игры
