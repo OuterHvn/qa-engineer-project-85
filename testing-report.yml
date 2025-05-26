@@ -102,7 +102,10 @@
 - summary: |
     Проверка игры на уровне "hard"
   status: pass
-    
+
+- summary: |
+    Проверка использования HTTPS
+  status: pass
 
   
 
