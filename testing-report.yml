@@ -48,7 +48,7 @@
   status: pass
 
 - summary: |
-    Запуск несколькиз игр
+    Запуск нескольких игр
   status: pass
 
 - summary: |
@@ -82,3 +82,27 @@
 - summary: |
     Проверка смены языка задания
   status: pass
+
+- summary: |
+    Создание новой игры с собственным заданием
+  status: fail
+
+- summary: |
+    Определение победителя в партии
+  status: pass
+  
+- summary: |
+    Проверка игры на уровне "easy"
+  status: pass
+
+- summary: |
+    Проверка игры на уровне "medium"
+  status: pass
+  
+- summary: |
+    Проверка игры на уровне "hard"
+  status: pass
+    
+
+  
+
