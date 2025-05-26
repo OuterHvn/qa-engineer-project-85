@@ -36,6 +36,7 @@
   requirement: |
     Выполнение входа с помощью GitHub
   prerequisites: |
+    Зарегестрировать учетную запись на ttps://github.com/
     Открыть сайт https://codebattle.hexlet.io/
   test-data: |
     Safari 18.2 (20602.1.16.11.18)
@@ -52,6 +53,7 @@
   requirement: |
     Выполнение входа с помощью Discord
   prerequisites: |
+    Зарегестрировать учетную запись на https://discord.com
     Открыть сайт https://codebattle.hexlet.io/
   test-data: |
     Safari 18.2 (20602.1.16.11.18)
