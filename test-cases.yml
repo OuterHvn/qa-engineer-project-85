@@ -18,6 +18,7 @@
     Регистрация учетной записи
   prerequisites: |
     Открыть сайт https://codebattle.hexlet.io/
+    Зарегестрировать новую учетную запись
   test-data: |
     Safari 18.2 (20602.1.16.11.18)
   steps:
