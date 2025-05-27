@@ -114,3 +114,11 @@
 - summary: |
     Проверка использования HTTPS
   status: pass
+
+- summary: |
+    Присоединение к созданному турниру
+  status: pass
+    
+- summary: |
+    Покинуть существующий турнир
+  status: pass
