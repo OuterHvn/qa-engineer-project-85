@@ -12,7 +12,7 @@
   status: pass
 
 - summary: |
-    Вход на платформу через Discord
+    Успешный вход через Discord
   status: fail
 
 - summary: |
