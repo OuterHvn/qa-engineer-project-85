@@ -49,7 +49,7 @@
     Открывается стартовая страница сайта
 
 - summary: |
-    Вход на платформу через Discord
+    Успешный вход через Discord
   requirement: |
     Выполнение входа с помощью Discord
   prerequisites: |
